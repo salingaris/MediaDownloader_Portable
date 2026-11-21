@@ -1,18 +1,3 @@
-    /^\    /^\
-    {  O}  {  O}
-     \ /    \ /
-     //     //       _------_
-    //     //     ./~        ~-_
-   / ~----~/     /              \
- /         :   ./       _---_    ~-
-|  \________) :       /~     ~\   |
-|        /    |      |  :~~\  |   |
-|       |     |      |  \___-~    |
-|        \ __/`^\______\.        ./
- \                     ~-______-~\.
- .|                                ~-_
-/_____________________________________~~__
-
 # Universal Media Downloader (Portable USB)
 
 A cross-platform, self-contained media downloader designed to live and run directly from a portable USB drive on both **Windows** and **Linux**. 
